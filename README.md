@@ -3,6 +3,8 @@
 
 <p>This Quick-Start Guide is designed to help users install and operate the Song Popularity Prediction Application on a Windows 10 system. The application is developed on a macOS with an M1 chip, but the following instructions will ensure compatibility and ease of use on Windows-based systems.</p>
 
+<img src="Correlation.png" alt="Correlation" width="500"/> <img src="Pair.png" alt="Pair" width="500"/>
+
 <h3>Prerequisites:</h3>
 <ul>
     <li>Ensure Python 3.8 or higher is installed.</li>
