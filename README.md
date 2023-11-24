@@ -1,4 +1,8 @@
 <h1>Machine Learning Application for Song Popularity</h1>
+<h2>Project Overview</h2>
+
+<p>This project exemplifies the application of machine learning and data analytics to predict song popularity. Developed using Python and Jupyter Notebook, it integrates advanced algorithms and visualization techniques to analyze music trends. My role involved data processing, algorithm implementation, and interactive feature development, showcasing my proficiency in Python, machine learning, and data visualization.</p>
+
 <h2>Quick-Start Guide for the Song Popularity Prediction Application</h2>
 
 <p>This Quick-Start Guide is designed to help users install and operate the Song Popularity Prediction Application on a Windows 10 system. The application is developed on a macOS with an M1 chip, but the following instructions will ensure compatibility and ease of use on Windows-based systems.</p>
